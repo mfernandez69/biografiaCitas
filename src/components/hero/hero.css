@@ -29,6 +29,7 @@
 	max-width: 38rem;
 	border-radius: 50%;
 	height: auto;
+	box-shadow: 0px 0px 10px black;
 }
 
 .hero .hero__container {
@@ -54,6 +55,7 @@
 .hero__container .text__content .hero__title {
 	font-size: var(--text-xxx-large);
 	line-height: var(--text-xxx-large);
+	filter: drop-shadow(2px 2px 4px black);
 }
 
 .hero__container .hero__title p {

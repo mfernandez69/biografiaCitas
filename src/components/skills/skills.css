@@ -7,6 +7,7 @@
 }
 
 #skills .text-content {
+	padding: 5px;
 	max-width: 40%;
 	flex: 1;
 	display: flex;
@@ -14,10 +15,13 @@
 	justify-content: center;
 	gap: 1.1rem;
 }
+#skills .text-content p{
+	font-size: 18px;
+}
 
 @media screen and (max-width: 768px) {
 	#skills {
-		flex-direction: column-reverse;
+		flex-direction: column;
 	}
 	#skills .text-content {
 		max-width: 100%;

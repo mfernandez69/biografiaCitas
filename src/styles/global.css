@@ -1,18 +1,31 @@
 :root {
 	/* color  */
-	--primary-0: #190230;
-	--primary-10: #2b1560;
-	--primary-20: #442288;
-	--primary-30: #5529ae;
-	--primary-40: #6632cf;
-	--primary-50: #7644e3;
-	--primary-60: #8664ee;
-	--primary-70: #a491f4;
-	--primary-80: #c2b9f9;
-	--primary-90: #dcd8fc;
-	--primary-95: #edeafd;
-	--primary-99: #f4f4fe;
+	--primary-0: #6f0f3a;
+	/* Rosa oscuro intenso */
+	--primary-10: #a21e4d;
+	/* Rosa fuerte */
+	--primary-20: #d03a6d;
+	/* Rosa vibrante */
+	--primary-30: #e55a8d;
+	/* Rosa brillante */
+	--primary-40: #f77f9a;
+	/* Rosa claro */
+	--primary-50: #f9a6b2;
+	/* Rosa suave */
+	--primary-60: #fbc2d8;
+	/* Rosa muy claro */
+	--primary-70: #fdd8e6;
+	/* Rosa pastel */
+	--primary-80: #fef0f5;
+	/* Rosa casi blanco */
+	--primary-90: #fef5f9;
+	/* Rosa extremadamente suave */
+	--primary-95: #fefbfc;
+	/* Rosa pálido */
+	--primary-99: #ffffff;
+	/* Blanco */
 	--primary-100: #ffffff;
+	
 	--secondary-0: #1c050e;
 	--secondary-10: #490e25;
 	--secondary-20: #782344;
@@ -54,36 +67,37 @@
 	--font-montserrat: 'Montserrat', sans-serif;
 	--max-width: 108rem;
 	--site-bg: var(--primary-0);
-	--hero-bg: linear-gradient(
-		-54deg,
-		var(--primary-0) -23%,
-		var(--primary-20),
-		var(--primary-0) 51%
-	);
+	--hero-bg: linear-gradient(-54deg,
+			var(--primary-0) -23%,
+			var(--primary-20),
+			var(--primary-0) 51%);
 
-	--text-gradient: radial-gradient(
-		circle farthest-corner at center center,
-		#58f9ff 0%,
-		#df44e7 100%
-	);
+	--text-gradient: radial-gradient(circle farthest-corner at center center,
+			#e089a9 0%,
+			#e9171a 100%);
 }
-*{
+
+* {
 	box-sizing: border-box;
 }
+
 html {
 	font-family: var(--font-montserrat) !important;
 	font-size: 62.5%;
 	scroll-behavior: smooth;
 }
+
 body {
 	width: 100%;
 	background: var(--site-bg) no-repeat;
 	background: var(--site-bg) no-repeat;
 }
+
 main {
 	align-self: center;
 }
-p{
+
+p {
 	color: var(--primary-100);
 	font-size: var(--text-general);
 }
