@@ -17,62 +17,69 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
+		imgSrc: 'public/img/imgCuriosidades/tresGatos.png',
+		title: 'Tengo 3 gatos',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Desde siempre me han encantado los animales y he trabajado en labores de acogida de animales abandonados con la esperanza de darles'
+			+' una segunda oportunidad. Una experiencia que te cambia la vida',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: 'https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/299377097/original/7eb7dcebe244fcf5ad75d92b0969fc116946bd57/create-professional-amd-responsive-wordpress-website.jpg',
-		title: 'E-commerce',
+		imgSrc: 'public/img/imgCuriosidades/postre.png',
+		title: 'Postres caseros',
 		skills: ['JavaScript', 'Bootstrap'],
 		descripcion:
-			' Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Me gusta comerlos, pero tambien cocinarlos a mi manera y de forma saludable. Le aporta un lado irresistiblemente dulce a la vida '
+			+'que todos necesitamos de vez en cuando',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-up',
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
+		imgSrc: 'public/img/imgCuriosidades/deporteRiesgo.png',
+		title: 'Riesgo asegurado',
 		skills: ['React', 'CSS'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Realmente no me gusta estar siempre en una ambiente cómodo y trato de ponerme retos desafiantes y a veces arriesgados.'
+			+'¿Qué puedo decir? No me gusta la rutina. Encuentro especialmente emocionante la escalada libre, las acrobacias y coger el metro de Madrid en hora punta, eso sí que es '
+			+'para... ¡tener un cinturón de seguridad y un buen seguro de vida!',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'https://www.corse.mx/cdn/shop/files/tienda_lenceria-lenceria-hot_sale-ofertas-mexico-lenceria_seyx-encaje-corse_mx-corse_lenceria_1200_x_560_px_13.png?v=1712270274&width=1500',
-		title: 'Coffe Store',
+		imgSrc: 'public/img/imgCuriosidades/manga.png',
+		title: 'Mangaca declarado',
 		skills: ['React', 'CSS'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Me gusta leer y reconozco que me he leido auténticos ladrillos de mil páginas, sin embargo, los dibujos ayudan bastante a seguir el hilo. El manga muestra un gran transfondo '
+			+'y un mundo diferente del occidental que merece la pena ver. Debo reconocer que me encanta oriente en muchos sentidos.',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'https://i0.wp.com/themes.svn.wordpress.org/cafe-cafeteria/1.5.3/screenshot.png',
-		title: 'Coffe Store',
+		imgSrc: 'public/img/imgCuriosidades/estoicismo.png',
+		title: 'Orgulloso de ser raro',
 		skills: ['React', 'CSS'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'El termino estoicismo se ha vuelto populor recientemente como sinónimo de insensible y marginado de la sociedad. Soy consciente que esta sociedad no es perfecta, sin embargo, no pienso desesperarme y '
+			+'dejar de avanzar hacia un futuro prospero. Esta forma de ver el mundo ciertamente es contraproducente para hacer nuevos amigos, aunque quién quiere amigos que realmente no lo son.',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'https://dt2sdf0db8zob.cloudfront.net/wp-content/uploads/2021/06/copy-of-the-6-best-restaurant-website-templates-1.png',
-		title: 'Restaurant',
+		imgSrc: 'public/img/imgCuriosidades/dibujar2.png',
+		title: 'Amor por el dibujo',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
-			'Laboris ex laboris mollit esse fugiat aute cillum nostrud enim dolor sit. Reprehenderit et non nulla irure aute nostrud commodo aute.',
+			'Aprendí a expresarme atraves del papel desde pequeño, aunque no fue hasta hace poco que comence a dibujar en serio. Me encanta dibujar escenas introspectivas como medio para conocerme y expresarme. '
+			+'En mi opición, todos tenemos la capacidad de dibujar, sin embargo, no todos la explotamos.Si no me crees, demuestrame que me equivoco.',
 		demoURL: '',
 		repoURL: '',
 		anim: 'fade-right',
