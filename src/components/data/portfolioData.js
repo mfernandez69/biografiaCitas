@@ -17,7 +17,7 @@
  */
 export const portafolioData = [
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/tresGatos.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/tresGatos.png',
 		title: 'Tengo 3 gatos',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
@@ -28,7 +28,7 @@ export const portafolioData = [
 		anim: 'fade-right',
 	},
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/postre.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/postre.png',
 		title: 'Postres caseros',
 		skills: ['JavaScript', 'Bootstrap'],
 		descripcion:
@@ -40,7 +40,7 @@ export const portafolioData = [
 		averageBrightness: 0.1,
 	},
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/deporteRiesgo.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/deporteRiesgo.png',
 		title: 'Riesgo asegurado',
 		skills: ['React', 'CSS'],
 		descripcion:
@@ -52,7 +52,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/manga.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/manga.png',
 		title: 'Mangaca declarado',
 		skills: ['React', 'CSS'],
 		descripcion:
@@ -63,7 +63,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/estoicismo.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/estoicismo.png',
 		title: 'Orgulloso de ser raro',
 		skills: ['React', 'CSS'],
 		descripcion:
@@ -74,7 +74,7 @@ export const portafolioData = [
 		anim: 'fade-left',
 	},
 	{
-		imgSrc: 'biografiaCitas/img/imgCuriosidades/dibujar2.png',
+		imgSrc: '/biografiaCitas/img/imgCuriosidades/dibujar2.png',
 		title: 'Amor por el dibujo',
 		skills: ['React', 'StyledComponents'],
 		descripcion:
