@@ -4,8 +4,7 @@ import tailwind from '@astrojs/tailwind';
 
 import sitemap from "@astrojs/sitemap";
 
-// https://astro.build/config
 export default defineConfig({
-  output: 'static',
-  outDir: './dist', // Especifica explícitamente la carpeta de salida
-});
+  site: 'https://mfernandez69.github.io',
+  base: 'biografiaCitas',
+})
